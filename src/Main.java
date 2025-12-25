@@ -118,7 +118,7 @@ public class Hospital {
 public class Main {
     public static void main(String[] args) {
 
-        Patient patient1 = new Patient("Ali", 20, "Flu");
+        Patient patient1 = new Patient("Ali", 50, "Flu");
         Patient patient2 = new Patient("Aruzhan", 22, "Cold");
 
         MedicalProfessional doctor =
